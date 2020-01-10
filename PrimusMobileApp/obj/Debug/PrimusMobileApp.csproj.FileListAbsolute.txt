@@ -1,0 +1,12 @@
+D:\iFolder\project\Standard 2.0\PrimusMobileApp\bin\PrimusMobileApp.dll
+D:\iFolder\project\Standard 2.0\PrimusMobileApp\bin\PrimusMobileApp.pdb
+D:\iFolder\project\Standard 2.0\PrimusMobileApp\obj\Debug\PrimusMobileApp.dll
+D:\iFolder\project\Standard 2.0\PrimusMobileApp\obj\Debug\PrimusMobileApp.pdb
+D:\iFolder\project\Standard 2.0\PrimusMobileApp\obj\Debug\PrimusMobileApp.csprojResolveAssemblyReference.cache
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.dll.config
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.dll
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.pdb
+D:\gaia\PrimusMobileApp\obj\Debug\PrimusMobileApp.csprojAssemblyReference.cache
+D:\gaia\PrimusMobileApp\obj\Debug\PrimusMobileApp.csproj.CopyComplete
+D:\gaia\PrimusMobileApp\obj\Debug\PrimusMobileApp.dll
+D:\gaia\PrimusMobileApp\obj\Debug\PrimusMobileApp.pdb

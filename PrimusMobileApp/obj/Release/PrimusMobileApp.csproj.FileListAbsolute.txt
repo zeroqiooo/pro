@@ -1,0 +1,7 @@
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.dll.config
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.dll
+D:\gaia\PrimusMobileApp\bin\PrimusMobileApp.pdb
+D:\gaia\PrimusMobileApp\obj\Release\PrimusMobileApp.csprojAssemblyReference.cache
+D:\gaia\PrimusMobileApp\obj\Release\PrimusMobileApp.csproj.CopyComplete
+D:\gaia\PrimusMobileApp\obj\Release\PrimusMobileApp.dll
+D:\gaia\PrimusMobileApp\obj\Release\PrimusMobileApp.pdb
